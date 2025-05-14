@@ -1,16 +1,29 @@
-## Hi there 👋
+Termux Commands
 
-<!--
-**spitermantool/Spitermantool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1 pkg update
 
-Here are some ideas to get you started:
+2 pkg upgrade -y
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3 pkg install git
+
+4 pkg install python-pip
+
+5 git clone https://github.com/spitermantool/Spitermantool.git
+
+6 cd Spitermantool
+
+7 git pull
+
+8 python3 -m pip install requests
+
+9 pkg i python-numpy
+
+10 pip install rich --upgrade
+
+11 pip install -r requirements.txt
+
+12 pip3 install pystyle
+
+13.pip install pystyle requests pyfiglet
+
+13 python Spiterman.py
