@@ -27,3 +27,5 @@ Termux Commands
 13.pip install pystyle requests pyfiglet
 
 13 python Spiterman.py
+
+note: Remember that this tool is ultimately a hack, any damage to the game, the creator is not responsible, the tool has unlimited durability or until the game blocks it
